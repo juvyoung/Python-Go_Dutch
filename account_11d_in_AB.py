@@ -1,9 +1,8 @@
-# @ 2014.12.16
+# @ 2017.08.24
 
 '''--------------------------------
     First Edition
-
-    by: Haiyang Huang
+    by: Tony Huang
 ------------------------------------'''
 print " ======     Aschaffenburg     ====== "
 print ("      11D supermarket system          ")
